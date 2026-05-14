@@ -4,10 +4,10 @@ const config = {
   location: "Cape Town, South Africa",
   startingPrice: "R999",
 
-  whatsappNumber: "27XXXXXXXXX",
+  whatsappNumber: "27673022315",
   whatsappDefaultMessage: "Hi! I'd like to see your available PCs.",
 
-  facebookPageUsername: "DidzaPCs",
+  facebookPageUsername: "1091709027365308",
 
   metaTitle: "DidzaPCs – Affordable Ready-to-Use Refurbished PCs in Cape Town from R999",
   metaDescription:
@@ -16,7 +16,7 @@ const config = {
     "affordable PCs Cape Town, refurbished PCs Cape Town, ready-to-use PCs, cheap computers Cape Town, schoolwork PC, job seeker PC, budget PC Cape Town, second-hand PC Cape Town, beginner-friendly PC shop",
 
   ogImage: "/assets/DidzaPCs-banner.png",
-  siteUrl: "https://didzapcs.co.za",
+  siteUrl: "https://didza.zyntrix.solutions",
 
   packageMessages: {
     schoolwork: "Hi! I'm interested in a Schoolwork PC.",
