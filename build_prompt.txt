@@ -1,0 +1,1 @@
+use files (business context, logo, banner) in /assets to create a highly converting SEO discoverable single page sales funnel landing page for DidzaPCs with call to actions to facebook messager or whatsapp.
